@@ -20,4 +20,12 @@ sum = num1 + num2;
 system.out.println("sum of theses numbers: "=sum);
 }
 }
+public class demo {
+public static void main(string[] args) {
+int num =10, count ,total = 0;
+for(count = 1; count <=num; count++) {
+tottal =total + count;
+}
+system.out.printlnln("sum of first 10 natural numbers is: "+total);
+}
 
