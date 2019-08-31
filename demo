@@ -1,0 +1,5 @@
+class first {
+public static void main(string[] arguments) {
+system.out.println("let'sdo something using java technology.");
+}
+}
