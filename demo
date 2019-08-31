@@ -1,5 +1,11 @@
 class first {
 public static void main(string[] arguments) {
-system.out.println("let'sdo something using java technology.");
+system.out.println("let's do something using java technology.");
 }
 }
+class second {
+public static void main(string[] arguments) {
+system.out.println("let's do something with java technology.");
+}
+}
+
