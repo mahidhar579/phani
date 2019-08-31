@@ -13,4 +13,11 @@ public static void main(string[] arguments) {
 system.out.println("let's do something with java techhnology.");
 }
 }
+public class add twonumbers {
+public static void main(string[] args) {
+int num1 =5, num2 =15, sum;
+sum = num1 + num2;
+system.out.println("sum of theses numbers: "=sum);
+}
+}
 
