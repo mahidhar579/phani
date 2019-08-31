@@ -1,11 +1,16 @@
-class first {
+class first class{ 
 public static void main(string[] arguments) {
 system.out.println("let's do something using java technology.");
 }
 }
-class second {
+class second class {
 public static void main(string[] arguments) {
 system.out.println("let's do something with java technology.");
+}
+}
+class third class {
+public static void main(string[] arguments) {
+system.out.println("let's do something with java techhnology.");
 }
 }
 
